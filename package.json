@@ -12,9 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fft.js": "^3.0.3",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "spectrum-analyzer": "^1.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.23.1",
